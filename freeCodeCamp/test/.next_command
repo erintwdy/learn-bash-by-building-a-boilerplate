@@ -118,3 +118,4 @@ mv lato.font lato.ttf
 mv lato.ttf lato.font
 ls --color=auto
 mv lato.tff lato.ttf
+mv menlo.font menlo.otf
